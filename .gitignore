@@ -1,0 +1,5 @@
+*.class
+*.log
+classes/
+*secret*
+.DS_Store
